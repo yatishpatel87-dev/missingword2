@@ -1,0 +1,6 @@
+{
+  "name": "Missing Word Detective",
+  "description": "Interactive Gujarati & English missing word educational detective challenge for students with levels, 3 lives, combo streaks, certificates, and teacher mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
